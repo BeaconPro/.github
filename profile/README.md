@@ -1,6 +1,6 @@
 # Hi there 👋
 We are BeaconPro, a frontend web development organazation.
-Our programming languages in clude but are not limited to:
+Our programming languages include but are not limited to:
 |  Rank | Language |
 |------:|----------|
 |1.     |HTML      |
