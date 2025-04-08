@@ -9,6 +9,15 @@ Our programming languages include but are not limited to:
 --------------------
 Our featured project currently is:
 https://beaconpro.github.io/BeaconMusic
+--------------------
+Reach Out [Here](mailto:ittybittypancake@outlook.com)
+--------------------
+| Rank | Repo. | Github Page Link |
+| ----: | ----: | ----: |
+| 1\. | BeaconMusic | [https://beaconpro.github.io/BeaconMusic](https://beaconpro.github.io/BeaconMusic) |
+| 2\. | BeaconMedia | [https://beaconpro.github.io/BeaconMedia](https://beaconpro.github.io/BeaconMedia) |
+| 3\. | beaconpro.github.io | [https://beaconpro.github.io](https://beaconpro.github.io) |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 
