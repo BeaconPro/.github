@@ -7,8 +7,7 @@ Our programming languages include but are not limited to:
 |2.     |CSS       |  
 |3.     |JavaScript|
 --------------------
-## Our featured project currently is:
-https://beaconpro.github.io/BeaconMusic
+## Our featured project currently is: [BeaconMusic](https://beaconpro.github.io/BeaconMusic)
 --------------------
 Reach Out [Here](mailto:ittybittypancake@outlook.com)
 --------------------
