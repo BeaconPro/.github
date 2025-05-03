@@ -18,4 +18,4 @@ Reach Out [Here](mailto:ittybittypancake@outlook.com)
 | 2\. | BeaconMedia | [https://beaconpro.github.io/BeaconMedia](https://beaconpro.github.io/BeaconMedia) |
 | 3\. | beaconpro.github.io | [https://beaconpro.github.io](https://beaconpro.github.io) |
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![BeaconPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeaconPro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeaconPro)](https://github.com/anuraghazra/github-readme-stats)
