@@ -17,5 +17,4 @@ Reach Out [Here](mailto:ittybittypancake@outlook.com)
 | 1\. | BeaconMusic | [https://beaconpro.github.io/BeaconMusic](https://beaconpro.github.io/BeaconMusic) |
 | 2\. | BeaconMedia | [https://beaconpro.github.io/BeaconMedia](https://beaconpro.github.io/BeaconMedia) |
 | 3\. | beaconpro.github.io | [https://beaconpro.github.io](https://beaconpro.github.io) |
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeaconPro)](https://github.com/anuraghazra/github-readme-stats)
+-------------------------------------------------------------------------------------------------------------------------------------------------
